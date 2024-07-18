@@ -1,1 +1,1 @@
-# qr-code
+This code creates a simple QR code generator using HTML and JavaScript. It uses the qrcode-generator library to create QR codes. Users can input text or a URL, click the "Generate QR Code" button, and a QR code will be displayed.
